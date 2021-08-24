@@ -1,0 +1,11 @@
+body{
+
+    margin-top: 15px;
+    background: dodgerblue linear-gradient(
+    45deg
+    , aqua, dodgerblue, deeppink) fixed;
+    color: white;
+    font: normal 32px/1.4 system-ui, sans-serif;
+    margin: 3rem;
+    
+}
