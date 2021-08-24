@@ -1,5 +1,5 @@
 # 1.js-Desafio-1-em-JavaScript
-Fibonacci em JavaScript
+#### Fibonacci em JavaScript
 
 ## Layout inicial 
 ![fiboScrit](https://user-images.githubusercontent.com/86434035/130671470-36ac20aa-497d-4ab2-b632-1d7bf48a978a.png)
